@@ -1,8 +1,8 @@
-# Starfield
+# Starfield License
 
 ## Copyright
 
-(c) © 2021 Jeffrey Andersen
+Copyright (c) 2021 Jeffrey Andersen
 
 ## Warranty
 
