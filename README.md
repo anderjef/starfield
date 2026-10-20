@@ -5,7 +5,7 @@ Start date: 2019-09-03
 
 ## Demo
 
-![Sample screenshot](Picture1.png)
+![Sample screenshot](sample-screenshot.png)
 
 ## Dependencies
 
